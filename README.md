@@ -6,13 +6,13 @@ Group name: Boom-shaka-laka
 
 Students: 
 
+Yingxuan Liu (yingxuan@uchicago.edu)
+
 Chuqing Zhao (cqzhao@uchicago.edu) 
 
 Sirui Zhou (siruiz@uchicago.edu)
 
 Yi Qian (yiq@uchicago.edu)
-
-Yingxuan Liu (yingxuan@uchicago.edu)
 
 ### 1. Project overview
 This project explores the topic of innovation spread across industries using patent citation and abstract data. Through analyzing the dynamics of the patent citation behaviors across industries and across years, we would like to find the spread patterns of patents within and across industries. To achieve this goal, we build our project based on the the PySpark framework for parallel computing. We choose Spark framework to conduct our research. We choose Spark because it is fast, allows interactive sessions, and handles parallel computing implicitly and provides a higher level API. This setting is particularly suitable for us to work on these large datasets of patents and work as a team of four to cooperate smoothly. 
@@ -185,6 +185,9 @@ To understand the topics distributed in patent documents, we apply the LDA model
 
 ## People in charge of each section
 
+### Yingxuan Liu
+Orchestrated the team’s use of Google Colab; Large Scale Data downloading, cleaning, and merging; text analysis - topic modelling; trend analysis and heatmap plotting; the slides and README report structure building and final editing
+
 ### Chuqing Zhao
 Patent data cleaning, text analysis includes topic modelling, word frequency distribution, entity recognition and word cloud visualization
 
@@ -193,11 +196,6 @@ Large data cleaning and merging; calculating citation relationship; network anal
 
 ### Yi Qian
 Patent data cleaning; patent type and kind analysis
-
-### Yingxuan Liu
-Orchestrated the team’s use of Google Colab; Large Scale Data downloading, unzipping, and merging; trend analysis and heatmap plotting; the slides and README report structure building and final editing
-
-
 
 
 
