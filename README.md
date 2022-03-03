@@ -1,4 +1,4 @@
-# Final-project-boom-shaka-laka
+# Final-project-Patent Stargazer 2.0
 final-project-boom-shaka-laka created by GitHub Classroom
 
 ## Project Report
